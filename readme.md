@@ -25,7 +25,7 @@ Before running this script, ensure you have the following installed:
    First, clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/git-history.git
+   git clone https://github.com/afeez1131/git-history.git
    cd git-history
    ```
 
